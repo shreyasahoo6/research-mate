@@ -1,0 +1,10 @@
+arxiv
+bitsandbytes
+datasets
+faiss-cpu
+huggingface_hub
+numpy
+peft
+sentence-transformers
+torch
+transformers
