@@ -3,7 +3,7 @@
 ## 🔹 Overview  
 This repository contains two AI-powered projects developed in Google Colab:  
 
-- **Zephyr** → An experimental project exploring intelligent systems and automation workflows.  
+- **Zephyr** → Fine-tuning the model Zephyr7B to be able to respond legal queries better.  
 - **Research Mate** → An AI-powered research assistant that helps retrieve, summarize, and manage academic papers.  
 
 Both notebooks are designed to be run seamlessly in **Google Colab** or locally with **Jupyter Notebook**.  
