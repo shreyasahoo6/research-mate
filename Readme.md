@@ -7,7 +7,7 @@ Research Mate → An AI-powered research assistant that helps retrieve, summariz
 
 Both notebooks are designed to be run seamlessly in Google Colab or locally with Jupyter Notebook.
 
-📂 Repository Structure
+##📂 Repository Structure
 project-name/
 │── notebooks/
 │   ├── Zephyr.ipynb
